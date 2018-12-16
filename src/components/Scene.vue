@@ -70,7 +70,7 @@
       <a-planet
         variant="moon-dark"
         absolute
-        style="bottom: 30%; left: 10%" />
+        style="bottom: 30%; left: 30%" />
       <a-planet
         variant="earth"
         absolute
@@ -79,7 +79,7 @@
       <a-astronaut
         size="lg"
         absolute
-        style="bottom: 6%; left: 47%" />
+        style="bottom: 20%;" />
     </template>
   </div>
 </template>
